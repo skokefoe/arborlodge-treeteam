@@ -3,12 +3,38 @@
     <title>Arbor Lodge Tree Team</title>
     <link href="https://skokefoe.github.io/arborlodge-treeteam/feed.xml" rel="self" />
     <link href="https://skokefoe.github.io/arborlodge-treeteam" />
-    <updated>2020-01-12T11:40:57-08:00</updated>
+    <updated>2020-01-12T11:52:06-08:00</updated>
     <author>
         <name>Arbor Lodge Trees</name>
     </author>
     <id>https://skokefoe.github.io/arborlodge-treeteam</id>
 
+    <entry>
+        <title>The Arbor Lodge Tree Team</title>
+        <author>
+            <name>Arbor Lodge Trees</name>
+        </author>
+        <link href="https://skokefoe.github.io/arborlodge-treeteam/the-arbor-lodge-tree-team.html"/>
+        <id>https://skokefoe.github.io/arborlodge-treeteam/the-arbor-lodge-tree-team.html</id>
+
+        <updated>2020-01-12T11:51:08-08:00</updated>
+            <summary>
+                <![CDATA[
+                    The Arbor Lodge Tree Team works to plant, preserve, and protect trees&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1dudko3sp2" class="align-center msg msg--info"><span style="font-size: xx-large;">The Arbor Lodge Tree Team works to plant, preserve, and protect trees in our neighborhood of Portland, Oregon. We welcome new members and meet on the second Wednesday of every month in Arbor Lodge.</span></p>
+<p><img class="post__image post__image--center" src="https://skokefoe.github.io/arborlodge-treeteam/media/posts/2/fruit_tree_giveaway_poster-2020-2400x1711.png" alt="2020 Fruit Tree Giveaway Poster" width="3422" height="2400"></p>
+<h2 id="mcetoc_1dudkld561" class="wsite-content-title align-center">Upcoming Events</h2>
+<div> </div>
+<div class="align-center"> The Brian Duncan Memorial Fruit Tree Giveaway is on March 7, 2020. Click below for more information and to reserve your tree.</div>
+<div> </div>
+<div class="align-center">Fruit Tree Giveaway</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A new frontier in posting</title>
         <author>
