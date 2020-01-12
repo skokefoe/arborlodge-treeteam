@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Arbor Lodge Tree Team</title>
+    <link href="https://skokefoe.github.io/arborlodge-treeteam/feed.xml" rel="self" />
+    <link href="https://skokefoe.github.io/arborlodge-treeteam" />
+    <updated>2020-01-12T11:40:57-08:00</updated>
+    <author>
+        <name>Arbor Lodge Trees</name>
+    </author>
+    <id>https://skokefoe.github.io/arborlodge-treeteam</id>
+
+    <entry>
+        <title>A new frontier in posting</title>
+        <author>
+            <name>Arbor Lodge Trees</name>
+        </author>
+        <link href="https://skokefoe.github.io/arborlodge-treeteam/a-new-frontier-in-posting.html"/>
+        <id>https://skokefoe.github.io/arborlodge-treeteam/a-new-frontier-in-posting.html</id>
+
+        <updated>2020-01-12T11:36:52-08:00</updated>
+            <summary>
+                <![CDATA[
+                    It's beautiful.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <em><strong>It's beautiful.</strong></em>
+            ]]>
+        </content>
+    </entry>
+</feed>
